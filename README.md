@@ -27,5 +27,5 @@ Aplikasi ini menggunakan modul bawaan Python (**Tkinter**). Anda hanya perlu men
    ```Bash
    python Duplicate-Cleaner.py
    ```
-##License
+## License
 Project ini bersifat open-source di bawah lisensi MIT.
