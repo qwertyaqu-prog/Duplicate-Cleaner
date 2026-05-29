@@ -18,3 +18,14 @@ Aplikasi ini menggunakan modul bawaan Python (**Tkinter**). Anda hanya perlu men
 1. Clone repositori ini:
    ```bash
    git clone [https://github.com/qwertyaqu-prog/Duplicate-Cleaner.git](https://github.com/qwertyaqu-prog/Duplicate-Cleaner.git)
+   ```
+2. Masuk ke direktori proyek:
+   ```Bash
+   cd Duplicate-Cleaner
+   ```
+3. Jalankan aplikasi:
+   ```Bash
+   python Duplicate-Cleaner.py
+   ```
+##License
+Project ini bersifat open-source di bawah lisensi MIT.
